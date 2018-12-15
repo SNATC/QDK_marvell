@@ -1,0 +1,2 @@
+#!/bin/sh
+distcc /home/slava/toolchain_build/crosstool/install/gcc-4.2-glibc-2.5/arm-none-linux-gnueabi/bin/arm-none-linux-gnueabi-c++ "$@"
